@@ -1,2 +1,0 @@
-# rezafebrianorama.github.io
-Profile
