@@ -1,43 +1,43 @@
 {
     "status": 200,
     "data": {
-        "banner": "https://reviboo.files.wordpress.com/2019/10/bg_makanan.png",
+        "banner": "https://rezafebrianorama.github.io/assets/images/bg_makanan.png",
         "recommended": [
             {
                 "id_rekom": "rekom1",
-                "link_poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "link_poto": "https://rezafebrianorama.github.io/assets/images/risol.jpg",
                 "nama_produk": "Rosil Sayur"
             },
             {
                 "id_rekom": "rekom2",
-                "link_poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "link_poto": "https://rezafebrianorama.github.io/assets/images/risol.jpg",
                 "nama_produk": "Rosil Daging"
             }
         ],
         "promo": [
             {
                 "id_promo": "promo1",
-                "link_poto": "https://reviboo.files.wordpress.com/2019/10/kupon_makanan.jpg",
+                "link_poto": "https://rezafebrianorama.github.io/assets/images/kupon_makanan.jpg",
                 "nama_promo": "Disc 10%"
             },
             {
                 "id_promo": "promo2",
-                "link_poto": "https://reviboo.files.wordpress.com/2019/10/kupon_makanan.jpg",
+                "link_poto": "https://rezafebrianorama.github.io/assets/images/kupon_makanan.jpg",
                 "nama_promo": "Disc 50% maks. 20.000"
             },
             {
                 "id_promo": "promo3",
-                "link_poto": "https://reviboo.files.wordpress.com/2019/10/kupon_makanan.jpg",
+                "link_poto": "https://rezafebrianorama.github.io/assets/images/kupon_makanan.jpg",
                 "nama_promo": "Disc 15%"
             },
             {
                 "id_promo": "promo4",
-                "link_poto": "https://reviboo.files.wordpress.com/2019/10/kupon_makanan.jpg",
+                "link_poto": "https://rezafebrianorama.github.io/assets/images/kupon_makanan.jpg",
                 "nama_promo": "Disc 5%"
             },
             {
                 "id_promo": "promo5",
-                "link_poto": "https://reviboo.files.wordpress.com/2019/10/kupon_makanan.jpg",
+                "link_poto": "https://rezafebrianorama.github.io/assets/images/kupon_makanan.jpg",
                 "nama_promo": "Disc 90%"
             }
         ]
