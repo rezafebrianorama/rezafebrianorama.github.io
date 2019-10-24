@@ -1,0 +1,65 @@
+{
+    "status": 200,
+    "data": {
+        "risol": [
+            {
+                "id_produk": "ris1",
+                "nama_produk": "risol sayur",
+                "link_Poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "kategori": "risol"
+            },
+            {
+                "id_produk": "ris2",
+                "nama_produk": "risol daging",
+                "link_Poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "kategori": "risol"
+            },
+            {
+                "id_produk": "ris3",
+                "nama_produk": "risol daging",
+                "link_Poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "kategori": "risol"
+            },
+            {
+                "id_produk": "ris4",
+                "nama_produk": "risol daging",
+                "link_Poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "kategori": "risol"
+            },
+            {
+                "id_produk": "ris5",
+                "nama_produk": "risol daging",
+                "link_Poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "kategori": "risol"
+            }
+        ],
+        "burger": [
+            {
+                "id_produk": "bur1",
+                "nama_produk": "beef burger",
+                "link_Poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "kategori": "burger"
+            },
+            {
+                "id_produk": "bur2",
+                "nama_produk": "chesse burger",
+                "link_Poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "kategori": "burger"
+            }
+        ],
+        "kebab": [
+            {
+                "id_produk": "keb1",
+                "nama_produk": "kebab kecil",
+                "link_Poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "kategori": "kebab"
+            },
+            {
+                "id_produk": "keb2",
+                "nama_produk": "kebab besar",
+                "link_Poto": "https://reviboo.files.wordpress.com/2019/10/risol.jpg",
+                "kategori": "kebab"
+            }
+        ]
+    }
+}
