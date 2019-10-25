@@ -1,0 +1,38 @@
+{
+    "status" : 200,
+    "data" : [
+        {
+            "id_transaksi" : "pay1",
+            "nama_produk" : "Risol Sayur",
+            "foto_produk" : "https://rezafebrianorama.github.io/assets/images/risol.jpg",
+            "alamat" : "Jl. melati dalam no12 rt 3 rw 7 jakarta, DKI jakarta 13130",
+            "quantity" : "2",
+            "harga_satuan" : "3000",
+            "total_harga" : "6000", 
+            "catatan" : "Cepat..!!!",
+            "status" : "dibuat"
+        },
+        {
+            "id_transaksi" : "pay2",
+            "nama_produk" : "Chesse Burger",
+            "foto_produk" : "https://rezafebrianorama.github.io/assets/images/risol.jpg",
+            "alamat" : "Jl. mawar no100 rt5 rw5 cibubur, Bogor 20202",
+            "quantity" : "4",
+            "harga_satuan" : "5000",
+            "total_harga" : "20000", 
+            "catatan" : "",
+            "status" : "perjalanan"
+        },
+        {
+            "id_transaksi" : "pay3",
+            "nama_produk" : "Kebab Besar",
+            "foto_produk" : "https://rezafebrianorama.github.io/assets/images/risol.jpg",
+            "alamat" : "Jl. Buntu no8 jakarta, DKI jakarta 90909",
+            "quantity" : "1",
+            "harga_satuan" : "13000",
+            "total_harga" : "13000", 
+            "catatan" : "Gass...",
+            "status" : "sampai"
+        }
+    ]
+}
