@@ -1,0 +1,27 @@
+{
+    "status": 200,
+    "data": {
+        "personal" : {
+            "nama" : "Reza Febriano Ramadhan",
+            "telp" : "+62 8121 3885 883",
+            "alamat" : "Jl. Mesjid no123 rt09 rw87 batu tulis, Jakarta Timur, DKI Jakarta",
+            "email" : "rezafebrianorama@gmail.com",
+            "username" : "rezafebrianorama",
+            "Password" : "123456"
+        },
+        "order" :[
+            {
+                "link_poto" : "https://rezafebrianorama.github.io/assets/images/risol.jpg",
+                "nama_barang" : "Risol Sayur",
+                "deskripsi" : "Risol isi sayur 12pcs x 2500",
+                "total_harga" : "10000"
+            },
+            {
+                "link_poto" : "https://rezafebrianorama.github.io/assets/images/risol.jpg",
+                "nama_barang" : "Risol Sayur",
+                "deskripsi" : "Risol isi sayur 12pcs x 2500",
+                "total_harga" : "10000"
+            }
+        ]
+    }
+}
