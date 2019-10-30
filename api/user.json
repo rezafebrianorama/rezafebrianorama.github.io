@@ -2,6 +2,7 @@
     "status": 200,
     "data": {
         "personal" : {
+            "poto" : "https://rezafebrianorama.github.io/assets/images/risol.jpg",
             "nama" : "Reza Febriano Ramadhan",
             "telp" : "+62 8121 3885 883",
             "alamat" : "Jl. Mesjid no123 rt09 rw87 batu tulis, Jakarta Timur, DKI Jakarta",
