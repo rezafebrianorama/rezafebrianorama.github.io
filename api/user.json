@@ -12,16 +12,15 @@
         },
         "order" :[
             {
-                "link_poto" : "https://rezafebrianorama.github.io/assets/images/risol.jpg",
-                "nama_barang" : "Risol Sayur",
-                "deskripsi" : "Risol isi sayur 12pcs x 2500",
-                "total_harga" : "10000"
-            },
-            {
-                "link_poto" : "https://rezafebrianorama.github.io/assets/images/risol.jpg",
-                "nama_barang" : "Risol Sayur",
-                "deskripsi" : "Risol isi sayur 12pcs x 2500",
-                "total_harga" : "10000"
+                "id_transaksi" : "pay3",
+                "nama_produk" : "Kebab Besar",
+                "foto_produk" : "https://rezafebrianorama.github.io/assets/images/risol.jpg",
+                "alamat" : "Jl. Buntu no8 jakarta, DKI jakarta 90909",
+                "quantity" : "1",
+                "harga_satuan" : "13000",
+                "total_harga" : "13000", 
+                "catatan" : "Gass...",
+                "status" : "sampai"
             }
         ]
     }
